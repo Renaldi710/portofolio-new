@@ -1,0 +1,6 @@
+{
+  "name": "renaldi.dev portfolio",
+  "description": "Personal portfolio website of Renaldi, a Full-Stack Developer and DevOps Enthusiast based in Malang, Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
